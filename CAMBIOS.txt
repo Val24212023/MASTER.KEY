@@ -1,0 +1,19 @@
+MASTER KEY — VERSIÓN MEJORADA EN ESPAÑOL
+
+Se agregaron:
+1. Botón flotante «¿Necesitas ayuda?».
+2. Preguntas frecuentes desplegables.
+3. Botones «Me interesa» en los servicios.
+4. Animaciones al desplazarse.
+5. Contador de caracteres del formulario.
+6. Botón para volver al inicio.
+
+Los textos de ayuda y las instrucciones de ejecución están en español.
+La ayuda es informativa; no es un chat en vivo.
+
+Para ejecutar:
+1. Abre la carpeta master_key_web en Visual Studio Code.
+2. Abre Terminal > Nueva terminal.
+3. Ejecuta: python -m pip install -r requirements.txt
+4. Ejecuta: python app.py
+5. Entra a http://127.0.0.1:5000
